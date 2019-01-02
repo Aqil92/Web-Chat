@@ -11,13 +11,13 @@ export class Chat extends HTMLElement {
     const servers = {
       iceServers: [
         {
-          // url: "stun:stun.1.google.com:19302"
-          url: "stun:74.125.142.127:19302"
+           url: "stun:stun.1.google.com:19302"
+          //url: "stun:74.125.142.127:19302"
         },
         {
-          urls: "turn:turn.bistri.com:80",
-          credential: "homeo",
-          username: "homeo"
+          urls: "turn:numb.viagenie.ca",
+          credential: "Aqil@123",
+          username: "aqil.mohd.92@gmail.com"
         }
       ]
     };
