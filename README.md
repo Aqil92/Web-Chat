@@ -9,7 +9,7 @@ Server-less chat application useing peer to peer WebRTC
 
 Example usage [PeerData](https://github.com/Vardius/peer-data) library.
 
-[DEMO](https://vardius-webrtc-chat.herokuapp.com/)
+[DEMO](https://web-chat-aqil.herokuapp.com/)
 
 ## License
 
